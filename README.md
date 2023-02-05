@@ -1,2 +1,2 @@
 # Django-test
-practice  cloning / commiting and pushing
+the best course ever
